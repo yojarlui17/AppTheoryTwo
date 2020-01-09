@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppTheoryTwo</string>
+    <string name="txtValue1">Primer Valor</string>
+    <string name="txtValue2">Segundo Valor</string>
+    <string name="rdSumar">Sumar</string>
+    <string name="rdRestar">Restar</string>
+    <string name="rdMultiplicar">Multiplicar</string>
+    <string name="rdDividir">Dividir</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="txtResult"> </string>
+</resources>
