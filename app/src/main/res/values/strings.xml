@@ -7,5 +7,5 @@
     <string name="rdMultiplicar">Multiplicar</string>
     <string name="rdDividir">Dividir</string>
     <string name="btnCalcular">Calcular</string>
-    <string name="txtResult"> </string>
+    <string name="txtResult">Resultado</string>
 </resources>
